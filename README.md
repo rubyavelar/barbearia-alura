@@ -2,4 +2,4 @@
 
 > Status: Em desenvolvimento 
 
-<p>Neste repositório será documentado o progesso da criação dos projetos propostos pelos cursos da trilha Full Stack da Alura.</p>
+<p>Neste repositório será documentado o progesso da criação do projeto da Barbearia Alura, desenvolvido nos cursos iniciais de HTML e CSS.</p>
